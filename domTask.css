@@ -1,0 +1,26 @@
+.color1{
+    border: 2px solid yellowgreen;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.color2{
+    border: 2px solid blueviolet;
+    height: 130px;
+    padding: 30px;
+    margin: 5px;
+    
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+}
+.btn:hover{
+    background-color: aqua;
+    color: black;
+}
